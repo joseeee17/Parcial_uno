@@ -5,3 +5,5 @@ b = int(input("Ingrese numero b: "))
 
 suma = a + b
 print("La suma de los numeros es: ", suma)
+
+print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
